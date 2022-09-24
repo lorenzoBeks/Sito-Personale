@@ -1,0 +1,42 @@
+#waves{
+    background-color: #000;
+    margin-top: -25%;
+    margin-bottom: -10%;
+}
+
+#expertise {
+    background-color: #181823;
+    box-sizing: border-box;
+    color: white;
+}
+
+#description {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #f03a76;
+    border-radius: 5px;
+    height: 4px;
+    width: 70px;
+
+}
+
+ #H2 {
+    color: #deecf9;
+    font-size: 2.25rem;
+    font-weight: 700;
+    margin: 1.25rem 0;
+    text-align: center;
+}
+
+#P{
+    color: #c7e0fa;
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 20px 0;
+    text-align: center;
+}
+
+
+  
