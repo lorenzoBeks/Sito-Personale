@@ -1,3 +1,8 @@
+
+
+
+
+
 #portfolio{
     display: flex;
     gap: 2rem;
@@ -8,7 +13,7 @@
     align-items: center;
 }
 
-#portfolio .slider > button{
+/* #portfolio .slider > button{
     background-color: #F03A76;
     border: 0;
     border-radius: 50%;
@@ -32,7 +37,7 @@
 #portfolio button#right {
     margin-left: -20px;
 }
-
+ */
 #portfolio hr{
     width: 120px; 
     height: 5px; 
@@ -43,7 +48,7 @@
     background-color: #683CB8;
 }
 
-#portfolio .text button{
+/* #portfolio .text button{
     font-weight: bold;
     background-color: #F03A76;
     border: 0;
@@ -57,4 +62,4 @@
 #portfolio .text button:hover{
     background-color: #fff;
     color: #F03A76;
-}
+} */
