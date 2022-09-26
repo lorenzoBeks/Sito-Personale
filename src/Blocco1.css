@@ -1,16 +1,16 @@
-#waves{
+#expertise {
     background-color: #000;
     margin-top: -25%;
     margin-bottom: -10%;
 }
 
-#expertise {
+#expertise .description {
     background-color: #181823;
     box-sizing: border-box;
     color: white;
 }
 
-#description {
+#expertise .description h2 {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -22,7 +22,7 @@
 
 }
 
- #H2 {
+#expertise .description p {
     color: #deecf9;
     font-size: 2.25rem;
     font-weight: 700;
@@ -30,7 +30,7 @@
     text-align: center;
 }
 
-#P{
+#expertise .description > div {
     color: #c7e0fa;
     font-size: 1rem;
     font-weight: 400;

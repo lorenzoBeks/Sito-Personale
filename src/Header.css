@@ -1,18 +1,16 @@
 
-
- img {
-    width: 700px;
-    height: 700px;
+header {
+  display: flex;
+  align-items: center;
+  gap: 10rem;
 }
 
-  span {
-    color: #f03a76;
+header span {
+  color: #f03a76;
 }
 
- Header {
-    display: flex;
-    align-items: center;
-    gap: 30rem;
-    padding: 3rem 10rem;
-    gap: 10rem;
+
+header img {
+  width: 700px;
+  height: 700px;
 }

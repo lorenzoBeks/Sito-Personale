@@ -1,5 +1,6 @@
  
  import "./Header.css";
+ import Phone from "../src/Assets/phone.png"
 
 
  export default function Header(){
@@ -21,7 +22,7 @@
             morbi vedit turpis et dolor sit morbi odio id. Aliquam ultricies
             tortor ac.
         </p>
-        <img src="./C/Users/Lorenzo/Desktop/phone.png" alt="cellulare" />
+        <img src={Phone} alt="cellulare" />
         </div>
     )
 }
